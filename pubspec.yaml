@@ -1,0 +1,84 @@
+name: sociella
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.15
+  smooth_page_indicator: ^1.0.0+2
+  google_fonts: ^2.3.3
+  bloc: ^8.0.3
+  flutter_bloc: ^8.0.1
+  hexcolor: ^2.0.7
+  bot_toast: ^4.0.2
+  fluttertoast: ^8.0.9
+  flutter_svg: ^1.1.1+1
+  splash_screen_view: ^2.0.1
+  flutter_zoom_drawer: ^3.0.3
+  flutter_iconly: ^1.0.2
+  flutter_switch: ^0.3.2
+  fluttericon: ^2.0.0
+  rflutter_alert: ^2.0.4
+  image_picker: ^0.8.5+3
+  photo_view: ^0.14.0
+  intl: ^0.17.0
+  conditional_builder_null_safety: ^0.0.6
+  full_screen_image_null_safe: any
+  gallery_saver: ^2.3.2
+  bubble: ^1.2.1
+  scrollable_positioned_list: ^0.3.2
+  badges: ^2.0.3
+  carousel_slider: ^4.1.1
+  timeago: ^3.3.0
+  dio: ^4.0.6
+
+  # firebase
+  firebase_core: ^1.20.0
+  firebase_auth: ^3.5.0
+  cloud_firestore: ^3.4.0
+  pinput: ^2.2.11
+  google_sign_in: ^5.4.0
+  firebase_storage: ^10.3.4
+  firebase_messaging: ^13.0.0
+  flutter_launcher_icons: ^0.10.0
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/sLight.png"
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icon/
+
+  fonts:
+    - family: IconBroken
+      fonts:
+        - asset: assets/icon/icons.ttf
+
+

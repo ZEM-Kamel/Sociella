@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400448334866",
+    "project_id": "sociella-f1b80",
+    "storage_bucket": "sociella-f1b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400448334866:android:9972d34434295594893ccb",
+        "android_client_info": {
+          "package_name": "com.example.sociella.sociella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400448334866-27cj8931gn30oru7f6icdfdp99avlgj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBupZv9rPu3gnq01puucYnNT1xq0SuMC10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400448334866-27cj8931gn30oru7f6icdfdp99avlgj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
