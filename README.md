@@ -23,15 +23,15 @@ Features:
 
 Light Mode
 
-![mockup l1](https://raw.githubusercontent.com/ZEMKamel/mockups/main/mockups/Sociella%20Mockup%20%20L1.pngtoken=GHSAT0AAAAAABYULGH6OE7PCW6GTTFANC3OYZN4P3A)
-![mockup l2](https://raw.githubusercontent.com/ZEMKamel/mockups/main/mockups/Sociella%20Mockup%20%20L2.pngtoken=GHSAT0AAAAAABYULGH6CYP53HP4JU2HFWVOYZN4QBA)
-![mockup l3](https://raw.githubusercontent.com/ZEM-Kamel/mockups/main/mockups/Sociella%20Mockup%20%20L3.png?token=GHSAT0AAAAAABYULGH6SF5T2XBCEGV4HGZMYZN4QDA)
+![mockup l1](https://github.com/ZEM-Kamel/mockups/blob/main/mockups/Sociella%20Mockup%20%20L1.png)
+![mockup l2](https://github.com/ZEM-Kamel/mockups/blob/main/mockups/Sociella%20Mockup%20%20L2.png)
+![mockup l3](https://github.com/ZEM-Kamel/mockups/blob/main/mockups/Sociella%20Mockup%20%20L3.png)
 
 Dark Mode
 
-![mockup d1](https://raw.githubusercontent.com/ZEM-Kamel/mockups/main/mockups/Sociella%20Mockup%20D1.png?token=GHSAT0AAAAAABYULGH6PADWZBWLG4AXWJISYZN4QHQ)
-![mockup d2](https://raw.githubusercontent.com/ZEM-Kamel/mockups/main/mockups/Sociella%20Mockup%20%20D2.png?token=GHSAT0AAAAAABYULGH6IKNBCSKGLFVKYBGAYZN4QIQ)
-![mockup d3](https://raw.githubusercontent.com/ZEM-Kamel/mockups/main/mockups/Sociella%20Mockup%20%20D3.png?token=GHSAT0AAAAAABYULGH7FPOTT4LZINXXRVBAYZN4QKQ)
+![mockup d1](https://github.com/ZEM-Kamel/mockups/blob/main/mockups/Sociella%20Mockup%20D1.png)
+![mockup d2](https://github.com/ZEM-Kamel/mockups/blob/main/mockups/Sociella%20Mockup%20%20D2.png)
+![mockup d3](https://github.com/ZEM-Kamel/mockups/blob/main/mockups/Sociella%20Mockup%20%20D3.png)
 
 This Project Is A Starting Point For a Flutter Application.
 
