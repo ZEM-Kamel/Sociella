@@ -40,7 +40,7 @@ dependencies:
   badges: ^2.0.3
   carousel_slider: ^4.1.1
   timeago: ^3.3.0
-  dio: ^4.0.6
+  dio: ^5.1.1
 
   # firebase
   firebase_core: ^1.20.0
